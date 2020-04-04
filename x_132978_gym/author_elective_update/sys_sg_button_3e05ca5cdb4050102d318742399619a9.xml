@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button">
+    <sys_sg_button action="DELETE">
+        <acknowledgement_confirm_label>I Agree</acknowledgement_confirm_label>
+        <allow_images_upload>false</allow_images_upload>
+        <auto_redirection>false</auto_redirection>
+        <button_table_field_name/>
+        <cancel_label/>
+        <condition/>
+        <condition_script/>
+        <condition_type>declarative</condition_type>
+        <confirm_label/>
+        <confirmation_message/>
+        <context>global</context>
+        <description/>
+        <destination_alp/>
+        <destination_screen display_value="D/B Incline Peck Fly">4114825cdb4050102d31874239961919</destination_screen>
+        <destination_type>screen</destination_type>
+        <external_browser>false</external_browser>
+        <failure_message/>
+        <field_name/>
+        <jump_to_previous>false</jump_to_previous>
+        <jump_to_screen>false</jump_to_screen>
+        <link_label/>
+        <link_url/>
+        <mail_address/>
+        <mail_content/>
+        <mail_subject/>
+        <name>Launcher Button</name>
+        <phone_number/>
+        <phone_type>cellular</phone_type>
+        <preconditions>none</preconditions>
+        <relative_url>true</relative_url>
+        <roles/>
+        <save_signature_before_action_execution>false</save_signature_before_action_execution>
+        <select_current_record>false</select_current_record>
+        <show_acknowledgement>false</show_acknowledgement>
+        <show_confirmation>false</show_confirmation>
+        <show_refresh_on_previous>false</show_refresh_on_previous>
+        <show_signature>false</show_signature>
+        <sms/>
+        <success_message/>
+        <sys_class_name>sys_sg_button</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-04 11:29:22</sys_created_on>
+        <sys_id>3e05ca5cdb4050102d318742399619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Launcher Button</sys_name>
+        <sys_package display_value="Gym" source="x_132978_gym">6203c2c0db0810102d31874239961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gym">6203c2c0db0810102d31874239961983</sys_scope>
+        <sys_update_name>sys_sg_button_3e05ca5cdb4050102d318742399619a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-04 11:29:22</sys_updated_on>
+        <table/>
+        <take_value_from_field>false</take_value_from_field>
+        <type>redirection</type>
+        <use_overlay>false</use_overlay>
+        <write_back_action_item/>
+    </sys_sg_button>
+    <sys_translated_text action="DELETE" query="documentkey=3e05ca5cdb4050102d318742399619a9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gym">6203c2c0db0810102d31874239961983</application>
+        <file_path/>
+        <instance_id>62c5731adb63d348cbf6d5b0cf961969</instance_id>
+        <instance_name>dev67816</instance_name>
+        <name>sys_sg_button_3e05ca5cdb4050102d318742399619a9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button"><sys_sg_button action="INSERT_OR_UPDATE"><acknowledgement_confirm_label>I Agree</acknowledgement_confirm_label><allow_images_upload>false</allow_images_upload><auto_redirection>false</auto_redirection><button_table_field_name/><cancel_label/><condition/><condition_script/><condition_type>declarative</condition_type><confirm_label/><confirmation_message/><context>global</context><description/><destination_alp/><destination_screen display_value="D/B Incline Peck Fly">4114825cdb4050102d31874239961919</destination_screen><destination_type>screen</destination_type><external_browser>false</external_browser><failure_message/><field_name/><jump_to_previous>false</jump_to_previous><jump_to_screen>false</jump_to_screen><link_label/><link_url/><mail_address/><mail_content/><mail_subject/><name>Launcher Button</name><phone_number/><phone_type>cellular</phone_type><preconditions>none</preconditions><relative_url>true</relative_url><roles/><save_signature_before_action_execution>false</save_signature_before_action_execution><select_current_record>false</select_current_record><show_acknowledgement>false</show_acknowledgement><show_confirmation>false</show_confirmation><show_refresh_on_previous>false</show_refresh_on_previous><show_signature>false</show_signature><sms/><success_message/><sys_class_name>sys_sg_button</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-04 11:29:22</sys_created_on><sys_id>3e05ca5cdb4050102d318742399619a9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Launcher Button</sys_name><sys_package display_value="Gym" source="x_132978_gym">6203c2c0db0810102d31874239961983</sys_package><sys_policy/><sys_scope display_value="Gym">6203c2c0db0810102d31874239961983</sys_scope><sys_update_name>sys_sg_button_3e05ca5cdb4050102d318742399619a9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-04 11:29:22</sys_updated_on><table/><take_value_from_field>false</take_value_from_field><type>redirection</type><use_overlay>false</use_overlay><write_back_action_item/></sys_sg_button><sys_translated_text action="delete_multiple" query="documentkey=3e05ca5cdb4050102d318742399619a9"/></record_update>]]></payload>
+        <payload_hash>-1972393405</payload_hash>
+        <record_name>Launcher Button</record_name>
+        <reverted_from/>
+        <source>fb78f514db4050102d318742399619f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-04 11:29:22</sys_created_on>
+        <sys_id>3e05ca5cdb4050102d318742399619ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17144f3d4bc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-04 11:29:22</sys_updated_on>
+        <type>Function</type>
+        <update_guid>7605ca5cd540501074f3e7b6c302d8ad</update_guid>
+        <update_guid_history>7605ca5cd540501074f3e7b6c302d8ad:-1972393405</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-04 11:41:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button">sys_sg_button</sys_db_object>
+        <sys_id>5e1927322d9243b4bca477f237cfd781</sys_id>
+        <sys_metadata>3e05ca5cdb4050102d318742399619a9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Launcher Button</sys_name>
+        <sys_package display_value="Gym" source="x_132978_gym">6203c2c0db0810102d31874239961983</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gym">6203c2c0db0810102d31874239961983</sys_scope>
+        <sys_scope_delete display_value="">3a250b681dac4b408850ad4a40399000</sys_scope_delete>
+        <sys_update_name>sys_sg_button_3e05ca5cdb4050102d318742399619a9</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_3e05ca5cdb4050102d318742399619a9">3e05ca5cdb4050102d318742399619ad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-04 11:41:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

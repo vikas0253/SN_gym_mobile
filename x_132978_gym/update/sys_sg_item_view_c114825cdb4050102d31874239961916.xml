@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>set_1-45538,set_2-45539,set_3-45540</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":14,"Bottom":16},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Image","Margin":{"Right":16},"studio_template_field_id":"E1","CornerRadius":24,"Height":48,"Width":48,"Scaling":"Fill","Id":42257},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","studio_template_field_id":"E2","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":18},"CellId":"set_1","Id":45538},{"Type":"Text","Margin":{"Top":4},"studio_template_field_id":"E3","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":14},"CellId":"set_2","Id":45539},{"Type":"Text","Margin":{"Top":4},"studio_template_field_id":"E4","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"set_3","Id":45540}],"Id":12260}],"studio_card_id":"6a08b23023052300a8ed7f4fc7bf6558","Id":28090}</item_view_json>
+        <name>D/B Incline Peck Fly Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-04 11:25:09</sys_created_on>
+        <sys_id>c114825cdb4050102d31874239961916</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>D/B Incline Peck Fly Item View</sys_name>
+        <sys_package display_value="Gym" source="x_132978_gym">6203c2c0db0810102d31874239961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gym">6203c2c0db0810102d31874239961983</sys_scope>
+        <sys_update_name>sys_sg_item_view_c114825cdb4050102d31874239961916</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-04 11:25:09</sys_updated_on>
+        <table>x_132978_gym_repetition</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=c114825cdb4050102d31874239961916"/>
+</record_update>

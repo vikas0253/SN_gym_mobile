@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Exercise" max_length="40" name="x_132978_gym_exercise" type="collection">
+    <element label="Exercise" max_length="40" name="x_132978_gym_exercise" sizeclass="8" type="collection">
         <element attributes="edge_encryption_enabled=true" display="true" label="Type" max_length="40" name="type" type="string"/>
     </element>
 </database>

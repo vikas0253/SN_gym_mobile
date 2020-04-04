@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <last_registered_on>2020-04-04 11:35:35</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-04 11:35:31</sys_created_on>
+        <sys_id>f476ca9cdb4050102d318742399619a5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>fLS8WH9Ws5k:APA91bFgkeya-8So-Hggc0wplQdtAX_7B4gIVX1f0aWfSrDPGzd684eWrnhpJu21gmjAlUbLODvSA1h1Jfqo9LVZ1MPcrT_y6NXIt_4ofx5gjoDj5Njix4xPrPrMLTZwpB_5NiLyRuEs</sys_name>
+        <sys_package display_value="Gym" source="x_132978_gym">6203c2c0db0810102d31874239961983</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="Gym">6203c2c0db0810102d31874239961983</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_f476ca9cdb4050102d318742399619a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-04 11:41:52</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>fLS8WH9Ws5k:APA91bFgkeya-8So-Hggc0wplQdtAX_7B4gIVX1f0aWfSrDPGzd684eWrnhpJu21gmjAlUbLODvSA1h1Jfqo9LVZ1MPcrT_y6NXIt_4ofx5gjoDj5Njix4xPrPrMLTZwpB_5NiLyRuEs</token>
+    </sys_push_notif_app_install>
+</record_update>

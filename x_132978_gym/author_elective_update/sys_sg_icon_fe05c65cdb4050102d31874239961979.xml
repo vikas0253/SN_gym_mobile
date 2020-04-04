@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="DELETE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"e947","Name":"icon-Knowledge","FontColor":"#FFFFFF","BackgroundColor":"#2e2e2e","type":"user"}</icon>
+        <name>User Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-04 11:29:22</sys_created_on>
+        <sys_id>fe05c65cdb4050102d31874239961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Icon</sys_name>
+        <sys_package display_value="Gym" source="x_132978_gym">6203c2c0db0810102d31874239961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gym">6203c2c0db0810102d31874239961983</sys_scope>
+        <sys_update_name>sys_sg_icon_fe05c65cdb4050102d31874239961979</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-04 11:29:22</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gym">6203c2c0db0810102d31874239961983</application>
+        <file_path/>
+        <instance_id>62c5731adb63d348cbf6d5b0cf961969</instance_id>
+        <instance_name>dev67816</instance_name>
+        <name>sys_sg_icon_fe05c65cdb4050102d31874239961979</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon"><sys_sg_icon action="INSERT_OR_UPDATE"><icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"e947","Name":"icon-Knowledge","FontColor":"#FFFFFF","BackgroundColor":"#2e2e2e","type":"user"}</icon><name>User Icon</name><sys_class_name>sys_sg_icon</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-04 11:29:22</sys_created_on><sys_id>fe05c65cdb4050102d31874239961979</sys_id><sys_mod_count>0</sys_mod_count><sys_name>User Icon</sys_name><sys_package display_value="Gym" source="x_132978_gym">6203c2c0db0810102d31874239961983</sys_package><sys_policy/><sys_scope display_value="Gym">6203c2c0db0810102d31874239961983</sys_scope><sys_update_name>sys_sg_icon_fe05c65cdb4050102d31874239961979</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-04 11:29:22</sys_updated_on><type>font</type></sys_sg_icon></record_update>]]></payload>
+        <payload_hash>-509946493</payload_hash>
+        <record_name>User Icon</record_name>
+        <reverted_from/>
+        <source>fb78f514db4050102d318742399619f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-04 11:29:22</sys_created_on>
+        <sys_id>3a05ca5cdb4050102d318742399619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17144f3d4750000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-04 11:29:22</sys_updated_on>
+        <type>Icon</type>
+        <update_guid>7205ca5c7c405010a8f06ccb87cff6a9</update_guid>
+        <update_guid_history>7205ca5c7c405010a8f06ccb87cff6a9:-509946493</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-04 11:41:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_icon">sys_sg_icon</sys_db_object>
+        <sys_id>2b4c8d1e4a5c480188a0db0f3d8975d9</sys_id>
+        <sys_metadata>fe05c65cdb4050102d31874239961979</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Icon</sys_name>
+        <sys_package display_value="Gym" source="x_132978_gym">6203c2c0db0810102d31874239961983</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gym">6203c2c0db0810102d31874239961983</sys_scope>
+        <sys_scope_delete display_value="">3a250b681dac4b408850ad4a40399000</sys_scope_delete>
+        <sys_update_name>sys_sg_icon_fe05c65cdb4050102d31874239961979</sys_update_name>
+        <sys_update_version display_value="sys_sg_icon_fe05c65cdb4050102d31874239961979">3a05ca5cdb4050102d318742399619a9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-04 11:41:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

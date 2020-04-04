@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>DI - D/B Incline Peck Fly(Chest)</name>
+        <query_condition table="x_132978_gym_repetition">exercise_name=71c48604db0810102d31874239961989^exercise_set_name.sys_id=b7ab4608db0810102d318742399619d5^ORDERBYsys_created_on<item display_table="x_132978_gym_exercise" display_value="Chest" endquery="false" field="exercise_name" goto="false" newquery="false" operator="=" or="false" value="71c48604db0810102d31874239961989"/>
+            <item endquery="false" field="exercise_set_name.sys_id" goto="false" newquery="false" operator="=" or="false" value="b7ab4608db0810102d318742399619d5"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="sys_created_on"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-04 11:11:07</sys_created_on>
+        <sys_id>93d0ce98db4050102d3187423996190d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>DI - D/B Incline Peck Fly(Chest)</sys_name>
+        <sys_package display_value="Gym" source="x_132978_gym">6203c2c0db0810102d31874239961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gym">6203c2c0db0810102d31874239961983</sys_scope>
+        <sys_update_name>sys_sg_data_item_93d0ce98db4050102d3187423996190d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-04 11:22:10</sys_updated_on>
+        <table>x_132978_gym_repetition</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=93d0ce98db4050102d3187423996190d"/>
+</record_update>

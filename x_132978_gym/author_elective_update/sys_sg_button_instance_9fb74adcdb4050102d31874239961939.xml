@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">d7b74adcdb4050102d31874239961937</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">c3b74adcdb4050102d31874239961935</icon>
+        <label>Chest/tricep Launcher Button Instance</label>
+        <location>top</location>
+        <name>Chest/tricep Launcher Button Instance</name>
+        <order/>
+        <parent>b605c65cdb4050102d31874239961977</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-04 11:41:08</sys_created_on>
+        <sys_id>9fb74adcdb4050102d31874239961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chest/tricep Launcher Button Instance</sys_name>
+        <sys_package display_value="Gym" source="x_132978_gym">6203c2c0db0810102d31874239961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gym">6203c2c0db0810102d31874239961983</sys_scope>
+        <sys_update_name>sys_sg_button_instance_9fb74adcdb4050102d31874239961939</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-04 11:41:08</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=9fb74adcdb4050102d31874239961939"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gym">6203c2c0db0810102d31874239961983</application>
+        <file_path/>
+        <instance_id>62c5731adb63d348cbf6d5b0cf961969</instance_id>
+        <instance_name>dev67816</instance_name>
+        <name>sys_sg_button_instance_9fb74adcdb4050102d31874239961939</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">d7b74adcdb4050102d31874239961937</button><color_theme>primary</color_theme><description/><field_name/><icon display_value="User Icon">c3b74adcdb4050102d31874239961935</icon><label>Chest/tricep Launcher Button Instance</label><location>top</location><name>Chest/tricep Launcher Button Instance</name><order/><parent>b605c65cdb4050102d31874239961977</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-04 11:41:08</sys_created_on><sys_id>9fb74adcdb4050102d31874239961939</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Chest/tricep Launcher Button Instance</sys_name><sys_package display_value="Gym" source="x_132978_gym">6203c2c0db0810102d31874239961983</sys_package><sys_policy/><sys_scope display_value="Gym">6203c2c0db0810102d31874239961983</sys_scope><sys_update_name>sys_sg_button_instance_9fb74adcdb4050102d31874239961939</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-04 11:41:08</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=9fb74adcdb4050102d31874239961939"/></record_update>]]></payload>
+        <payload_hash>-519731639</payload_hash>
+        <record_name>Chest/tricep Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>fb78f514db4050102d318742399619f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-04 11:41:08</sys_created_on>
+        <sys_id>13b74adcdb4050102d3187423996193c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17144fe9ade0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-04 11:41:08</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>5bb74adc984050108fd5c7f34ec6bd3b</update_guid>
+        <update_guid_history>5bb74adc984050108fd5c7f34ec6bd3b:-519731639</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-04 11:44:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>257f95030b704bac8c194153903a08d1</sys_id>
+        <sys_metadata>9fb74adcdb4050102d31874239961939</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chest/tricep Launcher Button Instance</sys_name>
+        <sys_package display_value="Gym" source="x_132978_gym">6203c2c0db0810102d31874239961983</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gym">6203c2c0db0810102d31874239961983</sys_scope>
+        <sys_scope_delete display_value="">3a250b681dac4b408850ad4a40399000</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_9fb74adcdb4050102d31874239961939</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_9fb74adcdb4050102d31874239961939">13b74adcdb4050102d3187423996193c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-04 11:44:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
