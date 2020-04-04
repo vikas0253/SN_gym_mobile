@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="exercise_name" label="Exercise Name" language="en" table="x_132978_gym_repetition">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>exercise_name</element>
+            <help/>
+            <hint/>
+            <label>Exercise Name</label>
+            <language>en</language>
+            <name>x_132978_gym_repetition</name>
+            <plural>Exercise Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-04 10:07:15</sys_created_on>
+            <sys_id>7f32bd90db0050102d3187423996195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Exercise Name</sys_name>
+            <sys_package display_value="Gym" source="x_132978_gym">6203c2c0db0810102d31874239961983</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gym">6203c2c0db0810102d31874239961983</sys_scope>
+            <sys_update_name>sys_documentation_x_132978_gym_repetition_exercise_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-04 10:07:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Repetition" max_length="40" name="x_132978_gym_repetition" type="collection">
+        <element label="Exercise Name" max_length="32" name="exercise_name" reference="x_132978_gym_exercise" type="reference"/>
+        <element dependent="exercise_name" dependent_on_field="exercise_name" label="Exercise Set Name" max_length="32" name="exercise_set_name" reference="x_132978_gym_set_type" type="reference" use_dependent_field="true"/>
+        <element label="Set 1" max_length="40" name="set_1" type="string"/>
+        <element label="Set 2" max_length="40" name="set_2" type="string"/>
+        <element label="Set 3" max_length="40" name="set_3" type="string"/>
+        <index name="index">
+            <element name="exercise_set_name"/>
+        </index>
+        <index name="index2">
+            <element name="exercise_name"/>
+        </index>
+    </element>
+</database>

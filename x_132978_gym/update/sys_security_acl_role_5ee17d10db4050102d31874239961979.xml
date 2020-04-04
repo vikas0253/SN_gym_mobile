@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-04 10:05:47</sys_created_on>
+        <sys_id>5ee17d10db4050102d31874239961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_132978_gym_repetition.x_132978_gym.repetition_user</sys_name>
+        <sys_package display_value="Gym" source="x_132978_gym">6203c2c0db0810102d31874239961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gym">6203c2c0db0810102d31874239961983</sys_scope>
+        <sys_security_acl display_value="x_132978_gym_repetition">dee17d10db4050102d31874239961976</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5ee17d10db4050102d31874239961979</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-04 10:05:47</sys_updated_on>
+        <sys_user_role display_value="x_132978_gym.repetition_user" name="x_132978_gym.repetition_user">9ee1fddcdb0050102d3187423996191b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
