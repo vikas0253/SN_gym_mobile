@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_132978_gym_repetition</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Reverse Crunches">88f7fdabdb0010102d31874239961948</embedded_screen>
+        <item_view display_value="Reverse Crunches Item View">40f7fd6bdb0010102d31874239961999</item_view>
+        <name>Reverse Crunches Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-14 12:52:21</sys_created_on>
+        <sys_id>48f7fdabdb0010102d3187423996194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reverse Crunches Master Item</sys_name>
+        <sys_package display_value="Gym" source="x_132978_gym">6203c2c0db0810102d31874239961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gym">6203c2c0db0810102d31874239961983</sys_scope>
+        <sys_update_name>sys_sg_master_item_48f7fdabdb0010102d3187423996194f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-14 12:52:21</sys_updated_on>
+    </sys_sg_master_item>
+</record_update>

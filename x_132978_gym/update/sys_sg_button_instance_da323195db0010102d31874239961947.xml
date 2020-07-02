@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New button (D/B Decline press)">8faf2d15db0010102d318742399619bf</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New button</label>
+        <location>top</location>
+        <name>New button</name>
+        <order>10</order>
+        <parent>124e2eecdb0c50102d318742399619ac</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-07 12:41:03</sys_created_on>
+        <sys_id>da323195db0010102d31874239961947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New button</sys_name>
+        <sys_package display_value="Gym" source="x_132978_gym">6203c2c0db0810102d31874239961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gym">6203c2c0db0810102d31874239961983</sys_scope>
+        <sys_update_name>sys_sg_button_instance_da323195db0010102d31874239961947</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-07 12:41:03</sys_updated_on>
+        <table>x_132978_gym_repetition</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=da323195db0010102d31874239961947"/>
+</record_update>

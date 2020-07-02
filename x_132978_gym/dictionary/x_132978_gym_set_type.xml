@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Set Type" max_length="40" name="x_132978_gym_set_type" sizeclass="34" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="set type" max_length="40" name="set_type" type="string"/>
-        <element attributes="encode_utf8=false" display="true" label="Type" max_length="32" name="type" reference="x_132978_gym_exercise" type="reference"/>
+    <element label="Set Type" max_length="40" name="x_132978_gym_set_type" sizeclass="35" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="set type" max_length="40" name="set_type" type="string"/>
+        <element attributes="encode_utf8=false" label="Type" max_length="32" name="type" reference="x_132978_gym_exercise" type="reference"/>
         <index name="index">
             <element name="type"/>
         </index>
